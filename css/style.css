@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Small{
+    color: blue;
+}
+#VerySmall{
+    color: red;
+}
+.text:first-of-type{
+    color: blue;
+}
+.text{
+    color: red;
+}
